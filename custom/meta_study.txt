@@ -1,0 +1,7 @@
+type_of_cancer: coadread
+cancer_study_identifier: crc_imh
+name: Colorectal Adenocarcinoma (IMH, Provisional)
+short_name: Colorectal (IMH)
+description: IMH Colorectal Adenocarcinoma
+add_global_case_list: true
+groups: IMH
