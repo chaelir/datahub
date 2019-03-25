@@ -1,7 +1,0 @@
-type_of_cancer: brca
-cancer_study_identifier: skbr3_stanford
-name: SKBR3 cell line control vs Tempest treatment, single cell mRNA data (Stanford, Provisional)
-short_name: SKBR3_Tempest_Stanford
-description: single cell sequencing of SKBR3 control and tempest treated samples 
-add_global_case_list: true
-groups: sBioPortal
